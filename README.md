@@ -33,11 +33,11 @@ This report provides a structured analysis designed to support **data-driven ope
 
 ---
 
-<p style="font-size: 10px; font-weight: normal;">
-###Key Business Questions
+<p style="font-size: 12px; font-weight: normal;">
+  Business Questions
 </p>
 
-<ul>
+<ul style="font-size: 12px; font-weight: normal;">
   <li>How is revenue performing month-to-month across the retail chain?</li>
   <li>Are there identifiable seasonal spikes or revenue dips?</li>
   <li>What factors drive changes in revenue between specific months?</li>
@@ -45,6 +45,7 @@ This report provides a structured analysis designed to support **data-driven ope
   <li>Which stores and product categories contribute most to total revenue?</li>
   <li>Is revenue primarily driven by returning customers or new customers?</li>
 </ul>
+
 
 ---
 
