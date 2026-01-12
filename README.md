@@ -19,7 +19,7 @@ Management identified the need for deeper insight into revenue performance acros
 
 ---
 
-## Business Context
+  <p><strong>Business Context</strong></p>
 
 BrightWave’s leadership is particularly focused on understanding:
 
