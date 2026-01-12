@@ -33,7 +33,7 @@ This report provides a structured analysis designed to support **data-driven ope
 
 ---
 
-<p style="font-size: 12px; font-weight: normal;">
+<p style="font-size: 10px; font-weight: normal;">
 Key Business Questions
 </p>
 
