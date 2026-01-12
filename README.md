@@ -80,17 +80,89 @@ The objective of this report is to provide management with **clear, actionable i
 
 ## Executive Snapshot: Revenue Performance at a Glance
 
-- **Overall Performance:** Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately **R7.4M – R8.1M per month**, with no sustained month-on-month growth trend.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Executive Snapshot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      padding: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px 15px;
+      border: 1px solid #ddd;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background-color: #2FA4E7;
+      color: #fff;
+      font-size: 16px;
+    }
+    td {
+      font-size: 14px;
+    }
+    tr:nth-child(even) {
+      background-color: #f3f6f9;
+    }
+    tr:hover {
+      background-color: #e1f0ff;
+    }
+    caption {
+      caption-side: top;
+      text-align: left;
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
 
-- **Peak & Lowest Months:** **January** recorded the highest revenue (**R8.06M**), while **February** marked the lowest point following the largest decline (**-8%, -R619k**).
+<table>
+  <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
+  <tr>
+    <td>Overall Performance</td>
+    <td>Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately <strong>R7.4M – R8.1M per month</strong>, with no sustained month-on-month growth trend.</td>
+  </tr>
+  <tr>
+    <td>Peak & Lowest Months</td>
+    <td><strong>January</strong> recorded the highest revenue (<strong>R8.06M</strong>), while <strong>February</strong> marked the lowest point following the largest decline (<strong>-8%, -R619k</strong>).</td>
+  </tr>
+  <tr>
+    <td>Recovery Pattern</td>
+    <td>A partial recovery was observed in <strong>March (+5%, +R389k)</strong>, however gains were not consistently maintained in subsequent months.</td>
+  </tr>
+  <tr>
+    <td>Mid-Year Volatility</td>
+    <td>Performance from <strong>April to September</strong> showed repeated short-term declines and brief recoveries, indicating <strong>volatility rather than trend-driven growth</strong>.</td>
+  </tr>
+  <tr>
+    <td>Late-Year Performance</td>
+    <td><strong>August and October</strong> delivered moderate rebounds, but improvements were not sustained over consecutive months.</td>
+  </tr>
+  <tr>
+    <td>Executive Interpretation</td>
+    <td>The business remains <strong>financially stable</strong>, with revenue movements driven by short-term dynamics. Opportunity exists to focus on <strong>stabilising mid-year performance</strong>, strengthening customer retention, and converting short-term recoveries into <strong>sustained revenue growth</strong>.</td>
+  </tr>
+</table>
 
-- **Recovery Pattern:** A partial recovery was observed in **March (+5%, +R389k)**, however gains were not consistently maintained in subsequent months.
-
-- **Mid-Year Volatility:** Performance from **April to September** showed repeated short-term declines and brief recoveries, indicating **volatility rather than trend-driven growth**.
-
-- **Late-Year Performance:** **August and October** delivered moderate rebounds, but improvements were not sustained over consecutive months.
-
-- **Executive Interpretation:** The business remains **financially stable**, with revenue movements driven by short-term dynamics. This presents an opportunity to focus on **stabilising mid-year performance**, strengthening customer retention, and converting short-term recoveries into **sustained revenue growth**.
+</body>
+</html>
 
 
 
