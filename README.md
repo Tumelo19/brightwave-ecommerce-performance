@@ -71,6 +71,31 @@ The objective of this report is to provide management with <strong>clear, action
   <em>This project demonstrates structured business analysis, KPI-driven insight generation, and professional reporting for a retail ecommerce environment.</em>
 </div>
 
+<h2>Executive Snapshot: Revenue Performance at a Glance</h2>
+
+<p>
+BrightWave Retailers’ ecommerce revenue performance over the year remained <strong>broadly stable</strong>, fluctuating within a narrow range of approximately <strong>R7.4M to R8.1M per month</strong>.
+While short-term increases and declines were observed, there was <strong>no sustained month-on-month growth trend</strong>.
+</p>
+
+<p>
+The year began strongly, with <strong>January recording the highest revenue (R8.06M)</strong>, establishing a solid baseline.
+This was followed by a notable early-year dip in <strong>February (-8%, -R619k)</strong>, representing the largest month-on-month decline.
+A partial recovery occurred in <strong>March (+5%, +R389k)</strong>, although subsequent months showed alternating gains and declines rather than consistent upward momentum.
+</p>
+
+<p>
+Mid-year performance (April to September) was characterized by <strong>repeated short-term fluctuations</strong>, indicating volatility rather than trend-driven growth.
+Late-year results showed <strong>moderate rebounds in August and October</strong>, but these gains were not sustained into following months.
+Overall, revenue movements were driven by <strong>short-term dynamics</strong> rather than structural growth.
+</p>
+
+<p>
+From an executive perspective, the analysis highlights a business that is <strong>financially stable</strong> but facing challenges in achieving consistent revenue acceleration.
+This creates an opportunity for management to focus on <strong>stabilizing mid-year performance</strong>, strengthening retention strategies, and identifying levers to convert short-term recoveries into sustained growth.
+</p>
+
+<hr style="border: 1px solid #ccc;" />
 
 
 
