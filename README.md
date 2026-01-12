@@ -33,7 +33,7 @@ This report provides a structured analysis designed to support **data-driven ope
 
 ---
 
-# Key Business Questions
+##### Key Business Questions
 
 - How is revenue performing month-to-month across the retail chain?
 - Are there identifiable seasonal spikes or revenue dips?
