@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/brightwave-logo.png" width="90" alt="BrightWave Retailers Logo" />
+  <img src="images/brightwave-logo.png" width="180" alt="BrightWave Retailers Logo" />
 </p>
 
 <h1 align="center" style="color:#0B3C5D;">
