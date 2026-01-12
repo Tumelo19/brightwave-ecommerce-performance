@@ -7,7 +7,7 @@
 
 ---
 
-## Client Background
+### Client Background
 
 BrightWave Retailers is a national retail chain specializing in consumer goods, ranging from electronics and home appliances to fashion and groceries.
 
