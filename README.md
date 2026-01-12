@@ -65,7 +65,7 @@ The objective of this report is to provide management with <strong>clear, action
   <li>Identification of high-performing and underperforming stores</li>
   <li>Data-backed commercial and marketing decisions</li>
 </ul>
-
+<hr style="border: 1px solid #ccc;" />
 <div align="center">
   <em>This project demonstrates structured business analysis, KPI-driven insight generation, and professional reporting for a retail ecommerce environment.</em>
 </div>
