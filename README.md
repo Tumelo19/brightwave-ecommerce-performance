@@ -50,7 +50,6 @@ This report provides a structured analysis designed to support <strong>data-driv
   <li>Is revenue primarily driven by returning customers or new customers?</li>
 </ul>
 
-<hr style="border: 1px solid #ccc;" />
 
 <h2>🎯 Primary KPI</h2>
 <h3>Revenue</h3>
