@@ -7,7 +7,7 @@
 
 <hr style="border: 1px solid #ccc;" />
 
-<h2>🧾 Client Background</h2>
+<h2>Client Background</h2>
 <p>
 BrightWave Retailers is a national retail chain specializing in consumer goods, ranging from electronics and home appliances to fashion and groceries.
 </p>
@@ -22,7 +22,7 @@ Management identified the need for deeper insight into revenue performance acros
 </p>
 
 
-<h2>📊 Business Context</h2>
+<h2>Business Context</h2>
 <p>
 BrightWave’s leadership is particularly focused on understanding:
 </p>
@@ -37,9 +37,7 @@ BrightWave’s leadership is particularly focused on understanding:
 This report provides a structured analysis designed to support <strong>data-driven operational and commercial decisions</strong>.
 </p>
 
-<hr style="border: 1px solid #ccc;" />
-
-<h2>❓ Key Business Questions</h2>
+<h2>Key Business Questions</h2>
 <ul>
   <li>How is revenue performing month-to-month across the retail chain?</li>
   <li>Are there identifiable seasonal spikes or revenue dips?</li>
@@ -50,16 +48,14 @@ This report provides a structured analysis designed to support <strong>data-driv
 </ul>
 
 
-<h2>🎯 Primary KPI</h2>
+<h2>Primary KPI</h2>
 <h3>Revenue</h3>
 <p>
 Revenue serves as the <strong>central performance metric</strong> for this analysis.
 All insights, trends, and recommendations presented in this report are directly linked back to revenue performance.
 </p>
 
-<hr style="border: 1px solid #ccc;" />
-
-<h2>🎯 Purpose of This Analysis</h2>
+<h2>Purpose of This Analysis</h2>
 <p>
 The objective of this report is to provide management with <strong>clear, actionable insights</strong> into BrightWave Retailers’ ecommerce and retail performance, enabling:
 </p>
@@ -69,8 +65,6 @@ The objective of this report is to provide management with <strong>clear, action
   <li>Identification of high-performing and underperforming stores</li>
   <li>Data-backed commercial and marketing decisions</li>
 </ul>
-
-<hr style="border: 1px solid #ccc;" />
 
 <div align="center">
   <em>This project demonstrates structured business analysis, KPI-driven insight generation, and professional reporting for a retail ecommerce environment.</em>
