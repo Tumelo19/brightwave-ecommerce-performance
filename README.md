@@ -73,27 +73,45 @@ The objective of this report is to provide management with <strong>clear, action
 
 <h2>Executive Snapshot: Revenue Performance at a Glance</h2>
 
-<p>
-BrightWave Retailers’ ecommerce revenue performance over the year remained <strong>broadly stable</strong>, fluctuating within a narrow range of approximately <strong>R7.4M to R8.1M per month</strong>.
-While short-term increases and declines were observed, there was <strong>no sustained month-on-month growth trend</strong>.
-</p>
+<ul>
+  <li>
+    <strong>Overall Performance:</strong> Revenue remained broadly stable throughout the year, 
+    fluctuating within a narrow range of approximately <strong>R7.4M – R8.1M per month</strong>, 
+    with <strong>no sustained month-on-month growth trend</strong>.
+  </li>
 
-<p>
-The year began strongly, with <strong>January recording the highest revenue (R8.06M)</strong>, establishing a solid baseline.
-This was followed by a notable early-year dip in <strong>February (-8%, -R619k)</strong>, representing the largest month-on-month decline.
-A partial recovery occurred in <strong>March (+5%, +R389k)</strong>, although subsequent months showed alternating gains and declines rather than consistent upward momentum.
-</p>
+  <li>
+    <strong>Peak & Lowest Months:</strong> 
+    <strong>January</strong> recorded the highest revenue (<strong>R8.06M</strong>), setting the annual baseline, 
+    while <strong>February</strong> marked the lowest point following the largest decline 
+    (<strong>-8%, -R619k</strong>).
+  </li>
 
-<p>
-Mid-year performance (April to September) was characterized by <strong>repeated short-term fluctuations</strong>, indicating volatility rather than trend-driven growth.
-Late-year results showed <strong>moderate rebounds in August and October</strong>, but these gains were not sustained into following months.
-Overall, revenue movements were driven by <strong>short-term dynamics</strong> rather than structural growth.
-</p>
+  <li>
+    <strong>Recovery Pattern:</strong> A partial recovery was observed in 
+    <strong>March (+5%, +R389k)</strong>, however gains were not consistently maintained in 
+    subsequent months.
+  </li>
 
-<p>
-From an executive perspective, the analysis highlights a business that is <strong>financially stable</strong> but facing challenges in achieving consistent revenue acceleration.
-This creates an opportunity for management to focus on <strong>stabilizing mid-year performance</strong>, strengthening retention strategies, and identifying levers to convert short-term recoveries into sustained growth.
-</p>
+  <li>
+    <strong>Mid-Year Volatility:</strong> Performance from <strong>April to September</strong> showed 
+    repeated short-term declines and brief recoveries, indicating 
+    <strong>volatility rather than trend-driven growth</strong>.
+  </li>
+
+  <li>
+    <strong>Late-Year Performance:</strong> <strong>August and October</strong> delivered moderate rebounds, 
+    but improvements were not sustained over consecutive months.
+  </li>
+
+  <li>
+    <strong>Executive Interpretation:</strong> The business remains 
+    <strong>financially stable</strong>, with revenue movements driven by short-term dynamics. 
+    This presents an opportunity to focus on <strong>stabilising mid-year performance</strong>, 
+    strengthening customer retention, and converting short-term recoveries into 
+    <strong>sustained revenue growth</strong>.
+  </li>
+</ul>
 
 <hr style="border: 1px solid #ccc;" />
 
