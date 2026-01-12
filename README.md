@@ -7,9 +7,9 @@
 
 </div>
 
----
+<hr style="border:1px solid #ccc;">
 
-## 🧾 Client Background
+## Client Background
 
 BrightWave Retailers is a national retail chain specializing in consumer goods, ranging from electronics and home appliances to fashion and groceries.  
 
@@ -19,9 +19,9 @@ As a trusted retail brand, BrightWave focuses on delivering high-quality product
 
 Management identified the need for deeper insight into revenue performance across stores and product categories to support strategic decision-making and long-term growth.
 
----
+<hr style="border:1px solid #ccc;">
 
-## 📊 Business Context
+## Business Context
 
 BrightWave’s leadership is particularly focused on understanding:
 
@@ -33,9 +33,9 @@ BrightWave’s leadership is particularly focused on understanding:
 
 This report provides a structured analysis designed to support **data-driven operational and commercial decisions**.
 
----
+<hr style="border:1px solid #ccc;">
 
-## ❓ Key Business Questions
+## Key Business Questions
 
 - How is revenue performing month-to-month across the retail chain?  
 - Are there identifiable seasonal spikes or revenue dips?  
@@ -44,18 +44,18 @@ This report provides a structured analysis designed to support **data-driven ope
 - Which stores and product categories contribute most to total revenue?  
 - Is revenue primarily driven by returning customers or new customers?
 
----
+<hr style="border:1px solid #ccc;">
 
-## 🎯 Primary KPI
+## Primary KPI
 
 ### Revenue
 
 Revenue serves as the **central performance metric** for this analysis.  
 All insights, trends, and recommendations presented in this report are directly linked back to revenue performance.
 
----
+<hr style="border:1px solid #ccc;">
 
-## 🎯 Purpose of This Analysis
+## Purpose of This Analysis
 
 The objective of this report is to provide management with **clear, actionable insights** into BrightWave Retailers’ ecommerce and retail performance, enabling:
 
@@ -64,13 +64,14 @@ The objective of this report is to provide management with **clear, actionable i
 - Identification of high-performing and underperforming stores  
 - Data-backed commercial and marketing decisions  
 
----
+<hr style="border:1px solid #ccc;">
 
 <div align="center">
 
 *This project demonstrates structured business analysis, KPI-driven insight generation, and professional reporting for a retail ecommerce environment.*
 
 </div>
+
 
 
 
