@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/brightwave-logo.png" width="90" alt="BrightWave Retailers Logo" />
+  <img src="images/brightwave-logo.png" width="120" alt="BrightWave Retailers Logo" />
 </p>
 
 <h1 align="center">Ecommerce Performance Report</h1>
