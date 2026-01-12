@@ -21,7 +21,6 @@ As a trusted retail brand, BrightWave focuses on delivering high-quality product
 Management identified the need for deeper insight into revenue performance across stores and product categories to support strategic decision-making and long-term growth.
 </p>
 
-<hr style="border: 1px solid #ccc;" />
 
 <h2>📊 Business Context</h2>
 <p>
