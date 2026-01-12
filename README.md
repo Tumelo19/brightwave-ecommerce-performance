@@ -1,16 +1,16 @@
-<p align="center">
+<p align="center" style="margin-bottom: 5px;">
   <img src="images/brightwave-logo.png" width="180" alt="BrightWave Retailers Logo" />
 </p>
 
-<h1 align="center" style="color:#0B3C5D;">
+<h1 align="center" style="color:#0B3C5D; margin-top: 5px; margin-bottom: 5px;">
   Ecommerce Performance Report
 </h1>
 
-<p align="center">
+<p align="center" style="margin-top: 0;">
   <strong style="color:#2FA4E7;">BrightWave Retailers</strong>
 </p>
 
-<hr>
+<hr style="margin-top: 20px;">
 
 <h2 style="color:#0B3C5D;">Client Background</h2>
 
@@ -69,5 +69,6 @@ The objective of this report is to provide management with clear, actionable ins
     This project demonstrates structured business analysis, KPI-driven insight generation, and professional reporting for a retail ecommerce environment.
   </em>
 </p>
+
 
 
