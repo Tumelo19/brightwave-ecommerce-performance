@@ -37,7 +37,7 @@ This report provides a structured analysis designed to support **data-driven ope
   Business Questions
 </p>
 
-<ul style="font-size: 12px; font-weight: normal;">
+<ul style="font-size: 9px; font-weight: normal;">
   <li>How is revenue performing month-to-month across the retail chain?</li>
   <li>Are there identifiable seasonal spikes or revenue dips?</li>
   <li>What factors drive changes in revenue between specific months?</li>
