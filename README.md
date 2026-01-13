@@ -117,6 +117,7 @@ The objective of this report is to provide management with **clear, actionable i
     width="800"  height="450" 
   />
      </div> 
+     
   ### Key Findings
 
 - Only months with **material revenue movements (≥4%)** were analysed; smaller month-to-month fluctuations were treated as **normal operational noise**.
