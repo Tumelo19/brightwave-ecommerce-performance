@@ -55,10 +55,11 @@ The objective of this report is to provide management with **clear, actionable i
 - Identification of high-performing and underperforming stores  
 - Data-backed commercial and marketing decisions  
 ---
-<div align="center">
   <div align="center">
+    
   ###  Executive Snapshot: Revenue Performance at a Glancet
   </div> 
+<div align="center">
   <img src="images/A0_Revenue_Monthly_Insights.png" 
     alt="Monthly Revenue Insights Chart"
     width="700"
