@@ -133,6 +133,14 @@ The objective of this report is to provide management with **clear, actionable i
     alt="Monthly Revenue Insights Chart"
     width="800"
   />
+   </div> 
+     <div align="center">
+  <img src="images/A2_Store_Product_Revenue_Analys_Table1.png" 
+    alt="Monthly Revenue Insights Chart"
+    width="800"
+  />
+   </div>
+   
   
 
  
