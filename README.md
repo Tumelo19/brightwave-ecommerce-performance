@@ -97,7 +97,6 @@ The objective of this report is to provide management with **clear, actionable i
     <td>The business remains <strong>financially stable</strong>, with revenue movements driven by short-term dynamics. Opportunity exists to focus on <strong>stabilising mid-year performance</strong>, strengthening customer retention, and converting short-term recoveries into <strong>sustained revenue growth</strong>.</td>
   </tr>
 </table>
-
 </body>
 </html>
 
