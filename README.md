@@ -78,6 +78,16 @@ The objective of this report is to provide management with **clear, actionable i
 ---
 
 ## Executive Snapshot: Revenue Performance at a Glance
+<div align="center">
+  <img 
+    src="images/A0_Revenue_Monthly_Insights.png" 
+    alt="Monthly Revenue Insights Chart"
+    width="700"
+  />
+  <p style="font-size: 10px; color: #666;">
+    Figure: Monthly revenue performance and key fluctuations across the year
+  </p>
+</div>
 <table>
   <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
   <tr>
