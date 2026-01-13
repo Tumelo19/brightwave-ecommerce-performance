@@ -78,14 +78,6 @@ The objective of this report is to provide management with **clear, actionable i
 ---
 
 ## Executive Snapshot: Revenue Performance at a Glance
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Executive Snapshot</title>
- 
-
 <table>
   <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
   <tr>
