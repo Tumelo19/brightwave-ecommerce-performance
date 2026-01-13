@@ -125,6 +125,10 @@ The objective of this report is to provide management with **clear, actionable i
 - Meaningful revenue increases or declines occurred in only a few months and were **primarily driven by changes in transaction volumes**, rather than pricing or customer mix.
 - Overall performance shows **no sustained growth trend**, indicating that future revenue improvement will depend more on **increasing transaction activity** than on price adjustments.
 
+  <div align="center">
+     <h2>Revenue Composition Analysis: Store & Product Drivers</h2>
+  </div> 
+
  
 
 
