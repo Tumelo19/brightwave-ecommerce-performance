@@ -112,13 +112,7 @@ The objective of this report is to provide management with **clear, actionable i
     alt="Monthly Revenue Insights Chart"
     width="800"
   />
-  <img src="images/  <img src="images/A1_Revenue_Driver_Analysis_Evidence.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
+ 
 
 
 
