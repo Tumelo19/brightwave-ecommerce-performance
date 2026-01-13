@@ -55,16 +55,6 @@ The objective of this report is to provide management with **clear, actionable i
 - Deeper understanding of customer behavior  
 - Identification of high-performing and underperforming stores  
 - Data-backed commercial and marketing decisions  
-
----
-
-<div align="center">
-  <em>
-    This project demonstrates structured business analysis, KPI-driven insight generation,
-    and professional reporting for a retail ecommerce environment.
-  </em>
-</div>
-
 ---
 
 ## Executive Snapshot: Revenue Performance at a Glance
