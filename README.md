@@ -43,19 +43,14 @@ This report provides a structured analysis designed to support **data-driven ope
   <li>Is revenue primarily driven by returning customers or new customers?</li>
 </ul>
 
+### Primary KPI
 
----
-
-## Primary KPI
-
-### Revenue
+#### Revenue
 
 Revenue serves as the **central performance metric** for this analysis.  
 All insights, trends, and recommendations presented in this report are directly linked back to revenue performance.
 
----
-
-## Purpose of This Analysis
+### Purpose of This Analysis
 
 The objective of this report is to provide management with **clear, actionable insights** into BrightWave Retailers’ ecommerce and retail performance, enabling:
 
