@@ -110,85 +110,92 @@ The objective of this report is to provide management with **clear, actionable i
   </div> 
      
   ### Key Findings
-<tr>
-  <td>Primary Revenue Driver</td>
-  <td>
-    Revenue movements were primarily driven by changes in transaction volumes rather than pricing or customer mix.
-  </td>
-  <td>
-    Months with significant revenue changes show strong alignment with transaction movements, while average revenue per transaction remained relatively stable.
-  </td>
-</tr>
 
-<tr>
-  <td>Material Revenue Movements</td>
-  <td>
-    Only a small number of months experienced material revenue changes.
-  </td>
-  <td>
-    February (-8%), March (+5%), August (+4%), and October (+4%) exceeded the ±4% materiality threshold.
-  </td>
-</tr>
+<table>
+  <caption>Executive Snapshot: Revenue Performance & Key Drivers</caption>
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
 
-<tr>
-  <td>Revenue Declines</td>
-  <td>
-    Revenue declines were largely volume-driven and reflect reduced transaction and customer activity.
-  </td>
-  <td>
-    February and June revenue declines coincided with decreases in both transactions and customers, with no significant deterioration in average revenue per transaction.
-  </td>
-</tr>
+  <tr>
+    <td>Overall Performance</td>
+    <td>
+      Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately
+      <strong>R7.4M – R8.1M per month</strong>, with no sustained upward or downward growth trend.
+    </td>
+  </tr>
 
-<tr>
-  <td>Revenue Increases</td>
-  <td>
-    Revenue increases were driven by improved transaction and customer volumes rather than price changes.
-  </td>
-  <td>
-    March, August, and October show transaction growth supported by stable or marginal changes in average revenue per transaction.
-  </td>
-</tr>
+  <tr>
+    <td>Primary Revenue Driver</td>
+    <td>
+      Month-to-month revenue movements were primarily driven by changes in <strong>transaction volumes</strong>
+      rather than pricing or customer mix, indicating a volume-led revenue model.
+    </td>
+  </tr>
 
-<tr>
-  <td>Pricing and Basket Size</td>
-  <td>
-    Pricing effects and average basket size played a secondary role in revenue performance.
-  </td>
-  <td>
-    Average revenue per transaction fluctuated within a narrow range, indicating limited pricing impact on overall revenue.
-  </td>
-</tr>
+  <tr>
+    <td>Material Revenue Movements</td>
+    <td>
+      Only a limited number of months experienced material revenue changes.
+      <strong>February (-8%)</strong>, <strong>March (+5%)</strong>, <strong>August (+4%)</strong>, and
+      <strong>October (+4%)</strong> exceeded the ±4% materiality threshold and were therefore analysed in detail.
+    </td>
+  </tr>
 
-<tr>
-  <td>Customer Trends</td>
-  <td>
-    Customer movements closely mirrored transaction trends, reinforcing a volume-led revenue model.
-  </td>
-  <td>
-    Declines in customer counts aligned with revenue softening, while recovery months showed increased customer participation.
-  </td>
-</tr>
+  <tr>
+    <td>Revenue Declines</td>
+    <td>
+      Revenue declines were largely <strong>volume-driven</strong>, reflecting reduced transaction and customer
+      activity rather than pricing pressure. <strong>February</strong> and <strong>June</strong> declines coincided
+      with decreases in both transactions and customers, while average revenue per transaction remained stable.
+    </td>
+  </tr>
 
-<tr>
-  <td>Operational Interpretation</td>
-  <td>
-    Most month-to-month revenue fluctuations represent normal operational variability rather than structural shifts.
-  </td>
-  <td>
-    Sub-4% revenue movements were treated as normal noise and excluded from primary driver classification.
-  </td>
-</tr>
+  <tr>
+    <td>Revenue Increases</td>
+    <td>
+      Revenue recoveries were driven by improvements in <strong>transaction and customer volumes</strong>.
+      <strong>March</strong>, <strong>August</strong>, and <strong>October</strong> show transaction-led growth
+      supported by stable or marginal changes in average revenue per transaction.
+    </td>
+  </tr>
 
-<tr>
-  <td>Strategic Implication</td>
-  <td>
-    Sustainable revenue growth will depend more on increasing transaction activity than on adjusting prices.
-  </td>
-  <td>
-    Transaction growth consistently explains revenue improvements, with limited contribution from pricing or customer mix changes.
-  </td>
-</tr>
+  <tr>
+    <td>Pricing & Basket Size</td>
+    <td>
+      Pricing effects and average basket size played a <strong>secondary role</strong> in revenue performance.
+      Average revenue per transaction fluctuated within a narrow range, indicating limited pricing impact on
+      overall revenue movement.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Customer Trends</td>
+    <td>
+      Customer volumes closely mirrored transaction trends, reinforcing a <strong>demand-driven revenue structure</strong>.
+      Periods of customer decline aligned with revenue softening, while recovery months showed increased customer participation.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Operational Interpretation</td>
+    <td>
+      Most month-to-month revenue fluctuations represent <strong>normal operational variability</strong> rather
+      than structural change. Sub-4% revenue movements were treated as normal noise and excluded from primary
+      driver analysis.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Strategic Implication</td>
+    <td>
+      Sustainable revenue growth will depend more on <strong>increasing transaction activity</strong> than on
+      adjusting prices. Strengthening demand, customer engagement, and conversion will be key to translating
+      short-term recoveries into sustained growth.
+    </td>
+  </tr>
+</table>
 
 
 
