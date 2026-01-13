@@ -156,7 +156,10 @@ The objective of this report is to provide management with **clear, actionable i
 
      ### Key Findings
 
-   - Revenue is evenly distributed across all store locations, with each contributing approximately 19–20% of total revenue, driven by similar transaction volumes. 
+   - Revenue is evenly distributed across all store locations, with each contributing approximately 19–20% of total revenue, driven by similar transaction volumes.
+      <div align="center">
+      <h3>Product Category Revenue Drivers</h3> 
+  </div> 
   
 
  
