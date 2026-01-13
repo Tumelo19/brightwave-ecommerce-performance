@@ -211,20 +211,95 @@ The objective of this report is to provide management with **clear, actionable i
     width="800"
   />
    </div> 
-     <div align="center">
-  <img src="images/A2_Store_Product_Revenue_Analys_Table1.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-   </div>
-     <div align="center">
-  <img src="images/A2_Store_Product_Revenue_Analys_Table2.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-   </div>
+  
+ ### Key Findings
+<table>
+  <caption>Executive Snapshot: Store-Level Revenue Performance</caption>
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
 
-     ### Key Findings
+  <tr>
+    <td>Overall Store Contribution</td>
+    <td>
+      Revenue is evenly distributed across all store locations, with each store contributing approximately
+      <strong>19–20% of total revenue</strong>, indicating no single dominant revenue-driving location.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Top Contributing Stores</td>
+    <td>
+      <strong>Gauteng Mall</strong> and <strong>Soweto Plaza</strong> were the highest contributors, each accounting
+      for approximately <strong>20.3%</strong> of total revenue, closely followed by the remaining locations.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Revenue Balance Across Locations</td>
+    <td>
+      Revenue performance across stores is highly balanced, with total annual revenue per store ranging narrowly
+      between approximately <strong>R18.1M and R18.7M</strong>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Transaction Volumes</td>
+    <td>
+      Transaction volumes are broadly similar across all locations, reinforcing the evenly distributed revenue pattern
+      and indicating consistent customer demand across regions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Average Revenue per Transaction</td>
+    <td>
+      Average revenue per transaction is consistent across stores, ranging between approximately
+      <strong>R1,808 and R1,856</strong>, suggesting limited variation in pricing or basket composition by location.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Average Unit Price</td>
+    <td>
+      Average unit prices are tightly clustered across stores, indicating standardized pricing and a uniform product mix
+      across locations.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Monthly Store Performance</td>
+    <td>
+      Monthly revenue trends show similar movement patterns across all locations, with stores experiencing
+      synchronized increases and declines rather than location-specific volatility.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Customer Behaviour</td>
+    <td>
+      Distinct customer counts at the total level are lower than the sum across individual stores, indicating that
+      customers frequently shop at multiple locations and demonstrating strong cross-store engagement.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Operational Interpretation</td>
+    <td>
+      The absence of significant revenue concentration or divergence suggests that store performance differences are
+      driven by normal operational variability rather than structural or geographic advantages.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Strategic Implication</td>
+    <td>
+      Future revenue growth is more likely to be achieved through network-wide demand stimulation and customer
+      engagement initiatives rather than focusing on individual store expansion or pricing changes.
+    </td>
+  </tr>
+</table>
 
    - Revenue is evenly distributed across all store locations, with each contributing approximately 19–20% of total revenue, driven by similar transaction volumes.
       <div align="center">
