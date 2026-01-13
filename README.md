@@ -56,7 +56,7 @@ The objective of this report is to provide management with **clear, actionable i
 - Data-backed commercial and marketing decisions  
 ---
 <div align="center">
-    
+   Executive Snapshot: Revenue Performance at a Glancet
   <img src="images/A0_Revenue_Monthly_Insights.png" 
     alt="Monthly Revenue Insights Chart"
     width="700"
