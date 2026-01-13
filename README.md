@@ -84,49 +84,7 @@ The objective of this report is to provide management with **clear, actionable i
 <head>
   <meta charset="UTF-8">
   <title>Executive Snapshot</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background-color: #fff;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    th, td {
-      padding: 12px 15px;
-      border: 1px solid #ddd;
-      text-align: left;
-      vertical-align: top;
-    }
-    th {
-      background-color: #2FA4E7;
-      color: #fff;
-      font-size: 16px;
-    }
-    td {
-      font-size: 14px;
-    }
-    tr:nth-child(even) {
-      background-color: #f3f6f9;
-    }
-    tr:hover {
-      background-color: #e1f0ff;
-    }
-    caption {
-      caption-side: top;
-      text-align: left;
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
+ 
 
 <table>
   <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
