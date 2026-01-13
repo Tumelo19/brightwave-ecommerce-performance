@@ -28,9 +28,6 @@ BrightWave’s leadership is particularly focused on understanding:
 
 This report provides a structured analysis designed to support **data-driven operational and commercial decisions**.
 
----
-
-
  ### Business Questions
 
 
