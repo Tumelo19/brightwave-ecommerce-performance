@@ -2,8 +2,8 @@
   <img src="images/brightwave-logo.png" width="120" alt="BrightWave Retailers Logo" />
 
   <h2>Ecommerce Performance Report</h2>
-  <p><strong>BrightWave Retailers</strong></p>
 </div>
+
 ---
 ### Client Background
 
