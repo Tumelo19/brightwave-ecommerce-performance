@@ -107,7 +107,7 @@ The objective of this report is to provide management with **clear, actionable i
     alt="Monthly Revenue Insights Chart"
     width="800"  height="450" 
   />
-     </div> 
+  </div> 
      
   ### Key Findings
 
