@@ -58,6 +58,7 @@ The objective of this report is to provide management with **clear, actionable i
 
 ## Executive Snapshot: Revenue Performance at a Glance
 <div align="center">
+    <h2> Executive Snapshot: Revenue Performance at a Glancet</h2
   <img 
     src="images/A0_Revenue_Monthly_Insights.png" 
     alt="Monthly Revenue Insights Chart"
