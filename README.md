@@ -312,19 +312,96 @@ The objective of this report is to provide management with **clear, actionable i
     width="800"
   />
    </div>
-      <div align="center">
-  <img src="images/A2_Store_Product_Revenue_Analys_Table4.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-   </div>
-      <div align="center">
-  <img src="images/A2_Store_Product_Revenue_Analys_Table5.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-   </div>
-  j
+      
+ ### Key Findings
+  <table>
+  <caption>Executive Snapshot: Product Category Revenue Performance</caption>
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
+
+  <tr>
+    <td>Overall Category Contribution</td>
+    <td>
+      Revenue is evenly distributed across all product categories, with each category contributing approximately
+      <strong>25% of total revenue</strong>, indicating a well-balanced product portfolio.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Top Revenue Categories</td>
+    <td>
+      <strong>Clothing</strong> (25.2%) and <strong>Accessories</strong> (25.1%) were the highest contributors,
+      though differences between categories are minimal and not strategically significant.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Revenue Balance Across Categories</td>
+    <td>
+      Annual revenue per category falls within a narrow range of approximately
+      <strong>R22.9M – R23.2M</strong>, highlighting strong balance and limited concentration risk.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Transaction Volumes</td>
+    <td>
+      Transaction volumes are highly comparable across categories, with each recording approximately
+      <strong>12,400 – 12,600 transactions</strong>, reinforcing the evenly distributed revenue outcome.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Units Sold</td>
+    <td>
+      Units sold are evenly spread across categories, indicating consistent customer demand and similar purchasing
+      behaviour across product types.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Average Revenue per Transaction</td>
+    <td>
+      Average revenue per transaction is consistent across all categories, ranging between approximately
+      <strong>R1,836 and R1,845</strong>, suggesting limited variation in basket value by category.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Average Unit Price</td>
+    <td>
+      Average unit prices are tightly clustered across categories, indicating standardized pricing and a balanced
+      mix of product price points.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Product Mix Interpretation</td>
+    <td>
+      Comparable performance across categories suggests a diversified and resilient product mix, reducing
+      dependency on any single category for revenue generation.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Strategic Implication</td>
+    <td>
+      Future revenue growth can be driven through broad-based category initiatives rather than prioritising a
+      single product category, supporting a stable and scalable revenue strategy.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Overall Insight</td>
+    <td>
+      The business’s revenue is driven by consistent performance across both store locations and product
+      categories, indicating a <strong>stable, diversified, and low-risk revenue structure</strong>.
+    </td>
+  </tr>
+</table>
+
 
  
 
