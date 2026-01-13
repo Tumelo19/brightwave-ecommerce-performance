@@ -99,22 +99,6 @@ The objective of this report is to provide management with **clear, actionable i
 </table>
 </body>
 </html>
-
-<div align="center">
-     <h2>Revenue Movement Analysis: Month-to-Month Drivers</h2>
-  </div> 
-  <div align="center">
-  <img src="images/A1_Revenue_Driver_Analysis_Table.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-      </div>
-      <div align="center">
-  <img src="images/A1_Revenue_Driver_Analysis_Evidence.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-    </div>
     <div align="center">
     <img src="images/A1_Revenue_Driver_Analysis_Chart.png" 
     alt="Monthly Revenue Insights Chart"
