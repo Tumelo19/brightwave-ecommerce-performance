@@ -64,9 +64,7 @@ The objective of this report is to provide management with **clear, actionable i
     alt="Monthly Revenue Insights Chart"
     width="700"
   />
-  <p style="font-size: 10px; color: #666;">
-    Figure: Monthly revenue performance and key fluctuations across the year
-  </p>
+  #### Figure: Monthly revenue performance and key fluctuations across the year
 </div>
 <table>
   <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
