@@ -56,8 +56,7 @@ The objective of this report is to provide management with **clear, actionable i
 - Data-backed commercial and marketing decisions  
 ---
   <div align="center">
-    
-  ###  Executive Snapshot: Revenue Performance at a Glancet
+     <h2>Ecommerce Performance Report</h2>
   </div> 
 <div align="center">
   <img src="images/A0_Revenue_Monthly_Insights.png" 
