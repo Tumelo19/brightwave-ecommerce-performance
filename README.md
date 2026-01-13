@@ -24,7 +24,7 @@ BrightWave’s leadership is particularly focused on understanding:
 - Customer purchasing behavior and transaction value patterns  
 - Store-level and product-category contribution to total revenue  
 - The balance between new customer acquisition and returning customer sales  
-
+ 
 This report provides a structured analysis designed to support **data-driven operational and commercial decisions**.
 
  ### Business Questions
