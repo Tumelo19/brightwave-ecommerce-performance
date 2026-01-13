@@ -150,7 +150,10 @@ The objective of this report is to provide management with **clear, actionable i
     width="800"
   />
    </div>
-   
+
+     ### Key Findings
+
+   - Revenue is evenly distributed across all store locations, with each contributing approximately 19–20% of total revenue, driven by similar transaction volumes. 
   
 
  
