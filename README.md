@@ -65,7 +65,7 @@ The objective of this report is to provide management with **clear, actionable i
     width="700"
   />
   
-  ##### Figure: Monthly revenue performance and key fluctuations across the year
+  ###### Figure: Monthly revenue performance and key fluctuations across the year
 </div>
 <table>
   <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
