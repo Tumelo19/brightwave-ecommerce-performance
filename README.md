@@ -116,6 +116,12 @@ The objective of this report is to provide management with **clear, actionable i
     alt="Monthly Revenue Insights Chart"
     width="800"  height="450" 
   />
+  ### Key Findings
+
+- Only months with **material revenue movements (≥4%)** were analysed; smaller month-to-month changes are treated as **normal operational noise**.
+- Revenue remained **broadly stable throughout the year**, with most fluctuations reflecting short-term variability rather than structural shifts.
+- Meaningful revenue increases or declines occurred in only a few months and were **primarily driven by changes in transaction volumes**, not pricing or customer mix.
+- Overall performance shows **no sustained growth trend**, indicating that future revenue improvement will depend more on **increasing transaction activity** than adjusting prices.
  
 
 
