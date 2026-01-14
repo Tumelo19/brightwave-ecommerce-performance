@@ -399,6 +399,119 @@ The objective of this report is to provide management with **clear, actionable i
     </td>
   </tr>
 </table>
+<div align="center">
+  <h3>Customer Retention & Acquisition Revenue Analysis</h3>
+</div>
+
+<div align="center">
+  <img src="images/A3_New_vs_Returning_Customers_Analysis.png"
+       alt="New vs Returning Customer Revenue Analysis"
+       width="800"
+  />
+</div>
+
+### Key Findings
+
+<table>
+  <caption>Executive Snapshot: New vs Returning Customer Performance</caption>
+
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
+
+  <tr>
+    <td>Overall Revenue Composition</td>
+    <td>
+      Total annual revenue of <strong>R92.1M</strong> is overwhelmingly driven by
+      <strong>returning customers</strong>, who contributed approximately
+      <strong>84%</strong> of total revenue, while new customers accounted for the remaining
+      <strong>16%</strong>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Customer Retention Impact</td>
+    <td>
+      The strong dominance of returning-customer revenue highlights a
+      <strong>highly loyal customer base</strong>, indicating successful retention and
+      repeat-purchase behaviour throughout the year.
+    </td>
+  </tr>
+
+  <tr>
+    <td>New Customer Revenue Trend</td>
+    <td>
+      New customer revenue is heavily front-loaded, peaking in
+      <strong>January (R6.27M)</strong> before declining sharply and steadily across the year,
+      suggesting limited sustained acquisition momentum.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Returning Customer Revenue Trend</td>
+    <td>
+      Revenue from returning customers increases consistently from February onward,
+      stabilising at approximately <strong>R7.4M – R7.7M per month</strong> in the second half
+      of the year.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Customer Volume Dynamics</td>
+    <td>
+      New customer counts decline significantly from
+      <strong>3,356 in January</strong> to fewer than <strong>100 per month</strong> by
+      August–December, while returning customer counts remain stable at approximately
+      <strong>3,200–3,300 customers per month</strong>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Revenue per Customer Insight</td>
+    <td>
+      Despite declining new customer volumes, overall revenue stability is maintained,
+      indicating that <strong>returning customers generate higher and more consistent
+      revenue per customer</strong>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Sales Driver Assessment</td>
+    <td>
+      Monthly sales performance is primarily driven by
+      <strong>repeat purchases rather than customer acquisition</strong>, making retention
+      the key engine of revenue stability.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Risk Consideration</td>
+    <td>
+      Heavy reliance on returning customers presents a potential long-term risk if
+      acquisition channels are not revitalised to replenish the customer base.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Strategic Implication</td>
+    <td>
+      While retention strategies are clearly effective, future growth will require
+      <strong>strengthening new customer acquisition</strong> to complement an already
+      strong loyalty-driven revenue model.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Overall Insight</td>
+    <td>
+      The business demonstrates a <strong>mature and stable revenue model</strong> anchored
+      by loyal customers; however, sustainable long-term growth will depend on balancing
+      retention strength with renewed customer acquisition efforts.
+    </td>
+  </tr>
+
+</table>
 
 
  
