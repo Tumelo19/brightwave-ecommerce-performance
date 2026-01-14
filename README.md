@@ -314,7 +314,7 @@ This report provides management with **clear, actionable insights** into BrightW
 <div align="center">
   <img src="images/A3_New_vs_Returning_Customers_Analysis.png"
        alt="New vs Returning Customer Revenue Chart"
-       width="400"
+       width="800"
   />
 </div>
 
