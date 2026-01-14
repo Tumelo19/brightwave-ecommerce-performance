@@ -63,6 +63,7 @@ This report provides management with **clear, actionable insights** into BrightW
        alt="Monthly Revenue Insights Chart"
        width="900"
   />
+  
   ###### Figure 1: Monthly revenue performance and fluctuations throughout the year
 </div>
 <table>
