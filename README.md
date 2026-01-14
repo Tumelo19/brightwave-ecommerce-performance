@@ -222,8 +222,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Store Contribution</td>
     <td>
-      Revenue is evenly distributed across all store locations, with each store contributing approximately
-      <strong>19–20% of total revenue</strong>, indicating no single dominant revenue-driving location.
+      No single store stands out as a main revenue driver. All stores perform at similar levels, so growth needs to come from the full store network rather than one location
     </td>
   </tr>
 
