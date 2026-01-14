@@ -121,8 +121,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Performance</td>
     <td>
-      Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately
-      <strong>R7.4M – R8.1M per month</strong>, with no sustained upward or downward growth trend.
+     Revenue stayed stable mainly because customer activity stayed similar each month, not because of price changes or business expansion
     </td>
   </tr>
 
