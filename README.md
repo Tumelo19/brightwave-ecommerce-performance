@@ -421,10 +421,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Revenue Composition</td>
     <td>
-      Total annual revenue of <strong>R92.1M</strong> is overwhelmingly driven by
-      <strong>returning customers</strong>, who contributed approximately
-      <strong>84%</strong> of total revenue, while new customers accounted for the remaining
-      <strong>16%</strong>.
+      Most revenue comes from returning customers rather than new customers, showing strong loyalty but weak new customer growth.
     </td>
   </tr>
 
