@@ -121,8 +121,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Performance</td>
     <td>
-      Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately
-      <strong>R7.4M – R8.1M per month</strong>, with no sustained upward or downward growth trend.
+     In contrast to pricing-led or expansion-driven growth models, BrightWave’s stable revenue profile reflects a mature, volume-led business where demand fluctuations — rather than structural change — explain month-to-month variation
     </td>
   </tr>
 
