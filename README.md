@@ -223,8 +223,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Store Contribution</td>
     <td>
-      Revenue is evenly distributed across all store locations, with each store contributing approximately
-      <strong>19–20% of total revenue</strong>, indicating no single dominant revenue-driving location.
+     In contrast to pricing-led or expansion-driven growth models, BrightWave’s stable revenue profile reflects a mature, volume-led business where demand fluctuations — rather than structural change — explain month-to-month variation
     </td>
   </tr>
 
