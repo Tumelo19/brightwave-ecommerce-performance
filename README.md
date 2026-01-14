@@ -61,7 +61,7 @@ The objective of this report is to provide management with **clear, actionable i
 <div align="center">
   <img src="images/A0_Revenue_Monthly_Insights.png" 
     alt="Monthly Revenue Insights Chart"
-    width="800"
+    width="600"
   />
   
   ###### Figure: Monthly revenue performance and key fluctuations across the year
