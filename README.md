@@ -399,6 +399,7 @@ The objective of this report is to provide management with **clear, actionable i
     </td>
   </tr>
 </table>
+
 <div align="center">
   <h3>Customer Retention & Acquisition Revenue Analysis</h3>
 </div>
