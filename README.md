@@ -6,113 +6,111 @@
 ---
 ### Client Background
 
-BrightWave Retailers is a national retail chain specializing in consumer goods, ranging from electronics and home appliances to fashion and groceries.
+BrightWave Retailers is a national retail chain selling consumer goods, including electronics, home appliances, fashion, and groceries.
 
-With over **50 stores nationwide** and a rapidly expanding e-commerce presence, the company serves a diverse customer base across multiple regions.
+With over **50 stores nationwide** and a growing e-commerce presence, the company serves a wide range of customers across multiple regions.
 
-As a trusted retail brand, BrightWave focuses on delivering high-quality products while maintaining excellent customer experiences across both physical and digital channels.
+As a trusted brand, BrightWave focuses on high-quality products and excellent customer experiences, both in-store and online.
 
-Management identified the need for deeper insight into revenue performance across stores and product categories to support strategic decision-making and long-term growth.
+Management wanted a deeper understanding of revenue performance across stores and product categories to support better decision-making and long-term growth.
 
 
-  ### Business Context
+### Business Context
 
-BrightWave’s leadership is particularly focused on understanding:
+BrightWave’s leadership wants to understand:
 
 - Monthly revenue performance and overall trends  
-- Key drivers behind revenue growth or decline  
-- Customer purchasing behavior and transaction value patterns  
-- Store-level and product-category contribution to total revenue  
-- The balance between new customer acquisition and returning customer sales  
- 
-This report provides a structured analysis designed to support **data-driven operational and commercial decisions**.
+- Main factors behind revenue increases or decreases  
+- Customer buying patterns and transaction values  
+- Contribution of each store and product category to total revenue  
+- Balance between new and returning customer sales  
 
- ### Business Questions
+This report provides a clear analysis to support **data-driven business decisions**.
 
+### Business Questions
 
 <ul style="font-size: 9px; font-weight: normal;">
-  <li>How is revenue performing month-to-month across the retail chain?</li>
-  <li>Are there identifiable seasonal spikes or revenue dips?</li>
-  <li>What factors drive changes in revenue between specific months?</li>
-  <li>Are revenue declines driven by fewer customers or smaller average transaction sizes?</li>
-  <li>Which stores and product categories contribute most to total revenue?</li>
-  <li>Is revenue primarily driven by returning customers or new customers?</li>
+  <li>How does revenue change month-to-month across the chain?</li>
+  <li>Are there seasonal peaks or drops?</li>
+  <li>What causes revenue changes between months?</li>
+  <li>Are revenue drops due to fewer customers or smaller transactions?</li>
+  <li>Which stores and product categories generate most revenue?</li>
+  <li>Is revenue mainly from new or returning customers?</li>
 </ul>
 
 ### Primary KPI
 
 #### Revenue
 
-Revenue serves as the **central performance metric** for this analysis.  
-All insights, trends, and recommendations presented in this report are directly linked back to revenue performance.
+Revenue is the **main performance metric** for this analysis.  
+All insights and recommendations link directly to revenue performance.
 
 ### Purpose of This Analysis
 
-The objective of this report is to provide management with **clear, actionable insights** into BrightWave Retailers’ ecommerce and retail performance, enabling:
+This report provides management with **clear, actionable insights** into BrightWave Retailers’ ecommerce and store performance to help with:
 
-- Improved revenue forecasting  
-- Deeper understanding of customer behavior  
-- Identification of high-performing and underperforming stores  
-- Data-backed commercial and marketing decisions  
+- Better revenue forecasting  
+- Understanding customer behavior  
+- Identifying high and low performing stores  
+- Making data-backed commercial and marketing decisions  
+
 ---
-  <div align="center">
-     <h2>Executive Snapshot: Revenue Performance at a Glance</h2>
-  </div> 
+<div align="center">
+  <h2>Executive Snapshot: Revenue Performance Overview</h2>
+</div> 
 <div align="center">
   <img src="images/A0_Revenue_Monthly_Insights.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="900"
+       alt="Monthly Revenue Insights Chart"
+       width="900"
   />
-  
-  ###### Figure: Monthly revenue performance and key fluctuations across the year
+  ###### Figure 1: Monthly revenue performance and fluctuations throughout the year
 </div>
 <table>
-  <caption>Executive Snapshot: Revenue Performance at a Glance</caption>
+  <caption>Table 1: Executive Snapshot – Revenue Performance Overview</caption>
   <tr>
     <th>Aspect</th>
     <th>Insight</th>
   </tr>
   <tr>
     <td>Overall Performance</td>
-    <td>Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately <strong>R7.4M – R8.1M per month</strong>, with no sustained month-on-month growth trend.</td>
+    <td>Revenue stayed mostly stable, ranging from <strong>R7.4M – R8.1M per month</strong>, with no steady growth trend.</td>
   </tr>
   <tr>
     <td>Peak & Lowest Months</td>
-    <td><strong>January</strong> recorded the highest revenue (<strong>R8.06M</strong>), while <strong>February</strong> marked the lowest point following the largest decline (<strong>-8%, -R619k</strong>).</td>
+    <td><strong>January</strong> had the highest revenue (<strong>R8.06M</strong>), while <strong>February</strong> had the lowest following the largest drop (<strong>-8%, -R619k</strong>).</td>
   </tr>
   <tr>
     <td>Recovery Pattern</td>
-    <td>A partial recovery was observed in <strong>March (+5%, +R389k)</strong>, however gains were not consistently maintained in subsequent months.</td>
+    <td><strong>March (+5%, +R389k)</strong> saw some recovery, but gains weren’t maintained consistently in later months.</td>
   </tr>
   <tr>
     <td>Mid-Year Volatility</td>
-    <td>Performance from <strong>April to September</strong> showed repeated short-term declines and brief recoveries, indicating <strong>volatility rather than trend-driven growth</strong>.</td>
+    <td>From <strong>April to September</strong>, revenue showed short-term declines and rebounds, indicating <strong>volatility rather than steady growth</strong>.</td>
   </tr>
   <tr>
     <td>Late-Year Performance</td>
-    <td><strong>August and October</strong> delivered moderate rebounds, but improvements were not sustained over consecutive months.</td>
+    <td><strong>August and October</strong> had moderate rebounds, but these were not sustained over consecutive months.</td>
   </tr>
   <tr>
     <td>Executive Interpretation</td>
-    <td>The business remains <strong>financially stable</strong>, with revenue movements driven by short-term dynamics. Opportunity exists to focus on <strong>stabilising mid-year performance</strong>, strengthening customer retention, and converting short-term recoveries into <strong>sustained revenue growth</strong>.</td>
+    <td>The business is <strong>financially stable</strong>, with revenue changes driven by short-term factors. Opportunity exists to <strong>stabilize mid-year performance</strong> and convert temporary gains into <strong>long-term growth</strong>.</td>
   </tr>
 </table>
-</body>
-</html>
+
 <div align="center">
-     <h2>Revenue Movement Analysis: Month-to-Month Drivers</h2>
-  </div> 
-    <div align="center">
-    <img src="images/A1_Revenue_Driver_Analysis_Chart.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"  height="450" 
+  <h2>Revenue Movement Analysis: Monthly Drivers</h2>
+</div> 
+<div align="center">
+  <img src="images/A1_Revenue_Driver_Analysis_Chart.png" 
+       alt="Monthly Revenue Drivers Chart"
+       width="800"  height="450" 
   />
-  </div> 
+</div> 
      
-  ### Key Findings
+### Key Findings
 
 <table>
-  <caption>Executive Snapshot: Revenue Performance & Key Drivers</caption>
+  <caption>Table 2: Revenue Performance & Key Drivers</caption>
   <tr>
     <th>Aspect</th>
     <th>Insight</th>
@@ -120,100 +118,66 @@ The objective of this report is to provide management with **clear, actionable i
 
   <tr>
     <td>Overall Performance</td>
-    <td>
-     Revenue stayed stable mainly because customer activity stayed similar each month, not because of price changes or business expansion
-    </td>
+    <td>Revenue stayed stable because customer activity remained similar each month, not due to price changes or business growth.</td>
   </tr>
 
   <tr>
     <td>Primary Revenue Driver</td>
-    <td>
-      Month-to-month revenue movements were primarily driven by changes in <strong>transaction volumes</strong>
-      rather than pricing or customer mix, indicating a volume-led revenue model.
-    </td>
+    <td>Monthly revenue changes were mainly due to <strong>transaction volumes</strong>, showing a volume-driven revenue model.</td>
   </tr>
 
   <tr>
     <td>Material Revenue Movements</td>
-    <td>
-      Only a limited number of months experienced material revenue changes.
-      <strong>February (-8%)</strong>, <strong>March (+5%)</strong>, <strong>August (+4%)</strong>, and
-      <strong>October (+4%)</strong> exceeded the ±4% materiality threshold and were therefore analysed in detail.
-    </td>
+    <td>Only a few months saw significant revenue changes: <strong>February (-8%)</strong>, <strong>March (+5%)</strong>, <strong>August (+4%)</strong>, and <strong>October (+4%)</strong>.</td>
   </tr>
 
   <tr>
     <td>Revenue Declines</td>
-    <td>
-      Revenue declines were largely <strong>volume-driven</strong>, reflecting reduced transaction and customer
-      activity rather than pricing pressure. <strong>February</strong> and <strong>June</strong> declines coincided
-      with decreases in both transactions and customers, while average revenue per transaction remained stable.
-    </td>
+    <td>Drops were mainly <strong>volume-driven</strong>, due to fewer transactions and customers, while average revenue per transaction stayed stable.</td>
   </tr>
 
   <tr>
     <td>Revenue Increases</td>
-    <td>
-      Revenue recoveries were driven by improvements in <strong>transaction and customer volumes</strong>.
-      <strong>March</strong>, <strong>August</strong>, and <strong>October</strong> show transaction-led growth
-      supported by stable or marginal changes in average revenue per transaction.
-    </td>
+    <td>Revenue growth was due to higher <strong>transaction and customer volumes</strong>, with stable average revenue per transaction.</td>
   </tr>
 
   <tr>
     <td>Pricing & Basket Size</td>
-    <td>
-      Pricing effects and average basket size played a <strong>secondary role</strong> in revenue performance.
-      Average revenue per transaction fluctuated within a narrow range, indicating limited pricing impact on
-      overall revenue movement.
-    </td>
+    <td>Pricing and average basket size had a <strong>minor effect</strong> on revenue. Average revenue per transaction varied little.</td>
   </tr>
 
   <tr>
     <td>Customer Trends</td>
-    <td>
-      Customer volumes closely mirrored transaction trends, reinforcing a <strong>demand-driven revenue structure</strong>.
-      Periods of customer decline aligned with revenue softening, while recovery months showed increased customer participation.
-    </td>
+    <td>Customer numbers closely followed transaction trends, confirming a <strong>demand-driven revenue model</strong>.</td>
   </tr>
 
   <tr>
     <td>Operational Interpretation</td>
-    <td>
-      Most month-to-month revenue fluctuations represent <strong>normal operational variability</strong> rather
-      than structural change. Sub-4% revenue movements were treated as normal noise and excluded from primary
-      driver analysis.
-    </td>
+    <td>Most monthly revenue changes are <strong>normal operational fluctuations</strong>. Movements below 4% were treated as normal noise.</td>
   </tr>
 
   <tr>
     <td>Strategic Implication</td>
-    <td>
-      Sustainable revenue growth will depend more on <strong>increasing transaction activity</strong> than on
-      adjusting prices. Strengthening demand, customer engagement, and conversion will be key to translating
-      short-term recoveries into sustained growth.
-    </td>
+    <td>Future revenue growth should focus on <strong>increasing transactions and customer engagement</strong> rather than changing prices.</td>
   </tr>
 </table>
 
+<div align="center">
+  <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
+  <h3>Store-Level Revenue Drivers</h3> 
+</div> 
 
-
-  <div align="center">
-     <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
-      <h3>Store-Level Revenue Drivers</h3> 
-  </div> 
-
-    
-  <div align="center">
+<div align="center">
   <img src="images/A2_Store_Product_Revenue_Analys_Table1.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
+       alt="Store-Level Revenue Table"
+       width="800"
   />
-   </div> 
-  
- ### Key Findings
+</div> 
+
+### Key Findings
+
 <table>
-  <caption>Executive Snapshot: Store-Level Revenue Performance</caption>
+  <caption>Table 3: Store-Level Revenue Performance</caption>
   <tr>
     <th>Aspect</th>
     <th>Insight</th>
@@ -221,189 +185,61 @@ The objective of this report is to provide management with **clear, actionable i
 
   <tr>
     <td>Overall Store Contribution</td>
-    <td>
-      No single store stands out as a main revenue driver. All stores perform at similar levels, so growth needs to come from the full store network rather than one location
-    </td>
+    <td>No single store dominates revenue. All stores perform similarly, so growth relies on the full network.</td>
   </tr>
 
   <tr>
     <td>Top Contributing Stores</td>
-    <td>
-      <strong>Gauteng Mall</strong> and <strong>Soweto Plaza</strong> were the highest contributors, each accounting
-      for approximately <strong>20.3%</strong> of total revenue, closely followed by the remaining locations.
-    </td>
+    <td><strong>Gauteng Mall</strong> and <strong>Soweto Plaza</strong> contributed the most, each about <strong>20.3%</strong> of total revenue.</td>
   </tr>
 
   <tr>
     <td>Revenue Balance Across Locations</td>
-    <td>
-      Revenue performance across stores is highly balanced, with total annual revenue per store ranging narrowly
-      between approximately <strong>R18.1M and R18.7M</strong>.
-    </td>
+    <td>Annual revenue per store ranges from <strong>R18.1M to R18.7M</strong>, showing balance.</td>
   </tr>
 
   <tr>
     <td>Transaction Volumes</td>
-    <td>
-      Transaction volumes are broadly similar across all locations, reinforcing the evenly distributed revenue pattern
-      and indicating consistent customer demand across regions.
-    </td>
+    <td>Transaction volumes are similar across stores, showing consistent customer demand.</td>
   </tr>
 
   <tr>
     <td>Average Revenue per Transaction</td>
-    <td>
-      Average revenue per transaction is consistent across stores, ranging between approximately
-      <strong>R1,808 and R1,856</strong>, suggesting limited variation in pricing or basket composition by location.
-    </td>
+    <td>Average revenue per transaction is consistent across stores, ranging from <strong>R1,808 – R1,856</strong>.</td>
   </tr>
 
   <tr>
     <td>Average Unit Price</td>
-    <td>
-      Average unit prices are tightly clustered across stores, indicating standardized pricing and a uniform product mix
-      across locations.
-    </td>
+    <td>Unit prices are similar, showing standardized pricing and product mix.</td>
   </tr>
 
   <tr>
     <td>Monthly Store Performance</td>
-    <td>
-      Monthly revenue trends show similar movement patterns across all locations, with stores experiencing
-      synchronized increases and declines rather than location-specific volatility.
-    </td>
+    <td>Stores show similar monthly trends, with increases and decreases happening together.</td>
   </tr>
 
   <tr>
     <td>Customer Behaviour</td>
-    <td>
-      Distinct customer counts at the total level are lower than the sum across individual stores, indicating that
-      customers frequently shop at multiple locations and demonstrating strong cross-store engagement.
-    </td>
+    <td>Some customers shop at multiple stores, showing strong cross-store engagement.</td>
   </tr>
 
   <tr>
     <td>Operational Interpretation</td>
-    <td>
-      The absence of significant revenue concentration or divergence suggests that store performance differences are
-      driven by normal operational variability rather than structural or geographic advantages.
-    </td>
+    <td>Revenue differences are mostly normal fluctuations, not structural advantages.</td>
   </tr>
 
   <tr>
     <td>Strategic Implication</td>
-    <td>
-      Future revenue growth is more likely to be achieved through network-wide demand stimulation and customer
-      engagement initiatives rather than focusing on individual store expansion or pricing changes.
-    </td>
+    <td>Future growth should focus on network-wide demand and engagement, not just one store.</td>
   </tr>
 </table>
-      <div align="center">
-      <h3>Product Category Revenue Drivers</h3> 
-  </div> 
-    </div>
-     <div align="center">
+
+<div align="center">
+  <h3>Product Category Revenue Drivers</h3> 
+</div> 
+<div align="center">
   <img src="images/A2_Store_Product_Revenue_Analys_Chart.png" 
-    alt="Monthly Revenue Insights Chart"
-    width="800"
-  />
-   </div>
-      
- ### Key Findings
-  <table>
-  <caption>Executive Snapshot: Product Category Revenue Performance</caption>
-  <tr>
-    <th>Aspect</th>
-    <th>Insight</th>
-  </tr>
-
-  <tr>
-    <td>Overall Category Contribution</td>
-    <td>
-      Revenue does not depend on one product category. All categories contribute similar amounts, which lowers business risk.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Top Revenue Categories</td>
-    <td>
-      <strong>Clothing</strong> (25.2%) and <strong>Accessories</strong> (25.1%) were the highest contributors,
-      though differences between categories are minimal and not strategically significant.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Revenue Balance Across Categories</td>
-    <td>
-      Annual revenue per category falls within a narrow range of approximately
-      <strong>R22.9M – R23.2M</strong>, highlighting strong balance and limited concentration risk.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Transaction Volumes</td>
-    <td>
-      Transaction volumes are highly comparable across categories, with each recording approximately
-      <strong>12,400 – 12,600 transactions</strong>, reinforcing the evenly distributed revenue outcome.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Units Sold</td>
-    <td>
-      Units sold are evenly spread across categories, indicating consistent customer demand and similar purchasing
-      behaviour across product types.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Average Revenue per Transaction</td>
-    <td>
-      Average revenue per transaction is consistent across all categories, ranging between approximately
-      <strong>R1,836 and R1,845</strong>, suggesting limited variation in basket value by category.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Average Unit Price</td>
-    <td>
-      Average unit prices are tightly clustered across categories, indicating standardized pricing and a balanced
-      mix of product price points.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Product Mix Interpretation</td>
-    <td>
-      Comparable performance across categories suggests a diversified and resilient product mix, reducing
-      dependency on any single category for revenue generation.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Strategic Implication</td>
-    <td>
-      Future revenue growth can be driven through broad-based category initiatives rather than prioritising a
-      single product category, supporting a stable and scalable revenue strategy.
-    </td>
-  </tr>
-
-  <tr>
-    <td>Overall Insight</td>
-    <td>
-      The business’s revenue is driven by consistent performance across both store locations and product
-      categories, indicating a <strong>stable, diversified, and low-risk revenue structure</strong>.
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h3>Customer Retention & Acquisition Revenue Analysis</h3>
-</div>
-
-<div align="center">
-  <img src="images/A3_New_vs_Returning_Customers_Analysis.png"
-       alt="New vs Returning Customer Revenue Analysis"
+       alt="Product Category Revenue Chart"
        width="800"
   />
 </div>
@@ -411,8 +247,78 @@ The objective of this report is to provide management with **clear, actionable i
 ### Key Findings
 
 <table>
-  <caption>Executive Snapshot: New vs Returning Customer Performance</caption>
+  <caption>Table 4: Product Category Revenue Performance</caption>
+  <tr>
+    <th>Aspect</th>
+    <th>Insight</th>
+  </tr>
 
+  <tr>
+    <td>Overall Category Contribution</td>
+    <td>Revenue is spread across categories, reducing risk from relying on a single category.</td>
+  </tr>
+
+  <tr>
+    <td>Top Revenue Categories</td>
+    <td><strong>Clothing</strong> (25.2%) and <strong>Accessories</strong> (25.1%) are the top contributors, but differences are small.</td>
+  </tr>
+
+  <tr>
+    <td>Revenue Balance Across Categories</td>
+    <td>Annual revenue per category ranges from <strong>R22.9M – R23.2M</strong>, showing balance.</td>
+  </tr>
+
+  <tr>
+    <td>Transaction Volumes</td>
+    <td>Transactions per category are similar, around <strong>12,400 – 12,600</strong>.</td>
+  </tr>
+
+  <tr>
+    <td>Units Sold</td>
+    <td>Units sold are evenly spread, showing consistent demand across categories.</td>
+  </tr>
+
+  <tr>
+    <td>Average Revenue per Transaction</td>
+    <td>Average revenue per transaction is consistent, ranging from <strong>R1,836 – R1,845</strong>.</td>
+  </tr>
+
+  <tr>
+    <td>Average Unit Price</td>
+    <td>Unit prices are similar, showing standardized pricing and balanced product mix.</td>
+  </tr>
+
+  <tr>
+    <td>Product Mix Interpretation</td>
+    <td>Balanced performance reduces reliance on any single category.</td>
+  </tr>
+
+  <tr>
+    <td>Strategic Implication</td>
+    <td>Growth should come from all categories, supporting a stable revenue strategy.</td>
+  </tr>
+
+  <tr>
+    <td>Overall Insight</td>
+    <td>Revenue is consistent across stores and categories, showing a <strong>stable, low-risk revenue structure</strong>.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>Customer Retention & Acquisition Analysis</h3>
+</div>
+
+<div align="center">
+  <img src="images/A3_New_vs_Returning_Customers_Analysis.png"
+       alt="New vs Returning Customer Revenue Chart"
+       width="800"
+  />
+</div>
+
+### Key Findings
+
+<table>
+  <caption>Table 5: New vs Returning Customer Revenue Performance</caption>
   <tr>
     <th>Aspect</th>
     <th>Insight</th>
@@ -420,122 +326,82 @@ The objective of this report is to provide management with **clear, actionable i
 
   <tr>
     <td>Overall Revenue Composition</td>
-    <td>
-      Most revenue comes from returning customers rather than new customers, showing strong loyalty but weak new customer growth.
-    </td>
+    <td>Most revenue comes from returning customers, showing strong loyalty but weak growth from new customers.</td>
   </tr>
 
   <tr>
     <td>Customer Retention Impact</td>
-    <td>
-      The strong dominance of returning-customer revenue highlights a
-      <strong>highly loyal customer base</strong>, indicating successful retention and
-      repeat-purchase behaviour throughout the year.
-    </td>
+    <td>Returning customers dominate revenue, showing successful retention and repeat purchases.</td>
   </tr>
 
   <tr>
     <td>New Customer Revenue Trend</td>
-    <td>
-      New customer revenue is heavily front-loaded, peaking in
-      <strong>January (R6.27M)</strong> before declining sharply and steadily across the year,
-      suggesting limited sustained acquisition momentum.
-    </td>
+    <td>New customer revenue peaks in <strong>January (R6.27M)</strong> but drops sharply after, showing weak sustained acquisition.</td>
   </tr>
 
   <tr>
     <td>Returning Customer Revenue Trend</td>
-    <td>
-      Revenue from returning customers increases consistently from February onward,
-      stabilising at approximately <strong>R7.4M – R7.7M per month</strong> in the second half
-      of the year.
-    </td>
+    <td>Revenue from returning customers grows steadily from February, stabilising at <strong>R7.4M – R7.7M per month</strong> later in the year.</td>
   </tr>
 
   <tr>
     <td>Customer Volume Dynamics</td>
-    <td>
-      New customer counts decline significantly from
-      <strong>3,356 in January</strong> to fewer than <strong>100 per month</strong> by
-      August–December, while returning customer counts remain stable at approximately
-      <strong>3,200–3,300 customers per month</strong>.
-    </td>
+    <td>New customer counts fall from <strong>3,356 in January</strong> to under 100 per month by August–December. Returning customers stay around <strong>3,200–3,300</strong>.</td>
   </tr>
 
   <tr>
     <td>Revenue per Customer Insight</td>
-    <td>
-      Despite declining new customer volumes, overall revenue stability is maintained,
-      indicating that <strong>returning customers generate higher and more consistent
-      revenue per customer</strong>.
-    </td>
+    <td>Stable revenue despite fewer new customers shows that returning customers generate higher, steadier revenue.</td>
   </tr>
 
   <tr>
     <td>Sales Driver Assessment</td>
-    <td>
-      Monthly sales performance is primarily driven by
-      <strong>repeat purchases rather than customer acquisition</strong>, making retention
-      the key engine of revenue stability.
-    </td>
+    <td>Revenue is mainly driven by repeat purchases, making retention key.</td>
   </tr>
 
   <tr>
     <td>Risk Consideration</td>
-    <td>
-      Heavy reliance on returning customers presents a potential long-term risk if
-      acquisition channels are not revitalised to replenish the customer base.
-    </td>
+    <td>Relying too much on returning customers is risky if new customer acquisition is not strengthened.</td>
   </tr>
 
   <tr>
     <td>Strategic Implication</td>
-    <td>
-      While retention strategies are clearly effective, future growth will require
-      <strong>strengthening new customer acquisition</strong> to complement an already
-      strong loyalty-driven revenue model.
-    </td>
+    <td>Retention is strong, but future growth needs <strong>more focus on acquiring new customers</strong>.</td>
   </tr>
 
   <tr>
     <td>Overall Insight</td>
-    <td>
-      The business demonstrates a <strong>mature and stable revenue model</strong> anchored
-      by loyal customers; however, sustainable long-term growth will depend on balancing
-      retention strength with renewed customer acquisition efforts.
-    </td>
+    <td>The business has a <strong>stable, loyalty-driven revenue model</strong>, but long-term growth depends on balancing retention with new customer acquisition.</td>
   </tr>
-
 </table>
+
 <hr>
 
-<!-- ===================== CONCLUSION ===================== -->
 <div align="center">
   <h2>Conclusion: Executive Summary</h2>
 </div>
 
 <p>
-BrightWave Retailers has stable revenue, but future growth will depend on bringing in more new customers, not just relying on existing ones
+BrightWave Retailers has stable revenue, but future growth depends on attracting new customers, not just relying on existing ones.
 </p>
 
 <p>
-Revenue fluctuations are primarily volume-driven, confirming that customer engagement
-and demand generation are more critical than pricing strategies.
+Revenue changes are mainly volume-driven, showing that customer engagement matters more than pricing.
 </p>
 
 <h3>Key Strategic Takeaways</h3>
 <ul>
-  <li>Revenue stability is underpinned by diversification</li>
-  <li>Transaction volume is the primary growth lever</li>
+  <li>Revenue stability comes from diversification</li>
+  <li>Transaction volume is the main growth driver</li>
   <li>Returning customers ensure consistency</li>
-  <li>New customer acquisition requires renewed focus</li>
+  <li>New customer acquisition needs renewed focus</li>
 </ul>
 
 <h3>High-Level Recommendations</h3>
 <ul>
-  <li>Strengthen acquisition initiatives</li>
-  <li>Leverage loyal customers through referrals</li>
-  <li>Stabilise mid-year demand fluctuations</li>
+  <li>Boost new customer acquisition</li>
+  <li>Leverage loyal customers for referrals</li>
+  <li>Stabilize mid-year demand fluctuations</li>
 </ul>
 
 <hr>
@@ -546,8 +412,8 @@ and demand generation are more critical than pricing strategies.
 </p>
 
 <hr>
-
 </body>
 </html>
+
 
 
