@@ -121,7 +121,8 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Performance</td>
     <td>
-     In contrast to pricing-led or expansion-driven growth models, BrightWave’s stable revenue profile reflects a mature, volume-led business where demand fluctuations — rather than structural change — explain month-to-month variation
+      Revenue remained broadly stable throughout the year, fluctuating within a narrow range of approximately
+      <strong>R7.4M – R8.1M per month</strong>, with no sustained upward or downward growth trend.
     </td>
   </tr>
 
@@ -222,7 +223,8 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Store Contribution</td>
     <td>
-     In contrast to pricing-led or expansion-driven growth models, BrightWave’s stable revenue profile reflects a mature, volume-led business where demand fluctuations — rather than structural change — explain month-to-month variation
+      Revenue is evenly distributed across all store locations, with each store contributing approximately
+      <strong>19–20% of total revenue</strong>, indicating no single dominant revenue-driving location.
     </td>
   </tr>
 
@@ -554,15 +556,3 @@ and demand generation are more critical than pricing strategies.
 
 </body>
 </html>
-
-
-
-
- 
-
-
-
-
-
-
-
