@@ -305,7 +305,7 @@ The objective of this report is to provide management with **clear, actionable i
   </div> 
     </div>
      <div align="center">
-  <img src="images/A2_Store_Product_Revenue_Analys_Table3.png" 
+  <img src="images/A2_Store_Product_Revenue_Analys_Chart.png" 
     alt="Monthly Revenue Insights Chart"
     width="800"
   />
