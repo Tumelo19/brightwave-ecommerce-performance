@@ -320,8 +320,7 @@ The objective of this report is to provide management with **clear, actionable i
   <tr>
     <td>Overall Category Contribution</td>
     <td>
-      Revenue is evenly distributed across all product categories, with each category contributing approximately
-      <strong>25% of total revenue</strong>, indicating a well-balanced product portfolio.
+      Revenue does not depend on one product category. All categories contribute similar amounts, which lowers business risk.
     </td>
   </tr>
 
