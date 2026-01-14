@@ -515,8 +515,7 @@ The objective of this report is to provide management with **clear, actionable i
 </div>
 
 <p>
-BrightWave Retailers demonstrates a <strong>stable and resilient revenue model</strong>,
-supported by balanced store and product performance and a highly loyal customer base.
+BrightWave Retailers has stable revenue, but future growth will depend on bringing in more new customers, not just relying on existing ones
 </p>
 
 <p>
