@@ -139,7 +139,7 @@ customer acquisition presents a potential long-term growth risk if left unaddres
   <strong>Portfolio Project | Data Analytics & Business Intelligence</strong><br>
   BrightWave Retailers – Ecommerce Performance Analysis
 </p>
-
+<hr>
 </body>
 </html>
 
