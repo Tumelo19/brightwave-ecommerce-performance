@@ -115,10 +115,10 @@ This report provides management with **clear, actionable insights** into BrightW
        alt="Monthly Revenue Drivers Chart"
        width="900"
   />
-</div>  
+
 
 ### Key Findings
-
+</div>  
 <table>
   <tr>
     <th>Aspect</th>
