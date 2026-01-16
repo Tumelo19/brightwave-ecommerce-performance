@@ -349,7 +349,7 @@ This report provides management with **clear, actionable insights** into BrightW
 </table>
 
 <hr>
-
+</div> 
 <div align="center">
   <h2>Conclusion: Executive Summary</h2>
 </div>
