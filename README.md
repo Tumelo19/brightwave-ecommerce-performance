@@ -105,15 +105,11 @@ This report provides management with **clear, actionable insights** into BrightW
 </div> 
 <div align="center">
   <img src="images/A1_Revenue_Driver_Analysis_Chart3.png" 
-       alt="Monthly Revenue Drivers Chart"
-   
-  />
+       alt="Monthly Revenue Drivers Chart" />
 </div> 
    <div align="center">
   <img src="images/A1_Revenue_Driver_Analysis_Chart4.png" 
-       alt="Monthly Revenue Drivers Chart"
-     
-    />
+       alt="Monthly Revenue Drivers Chart" />
 </div>  
 ### Key Findings
 
