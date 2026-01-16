@@ -116,6 +116,7 @@ This report provides management with **clear, actionable insights** into BrightW
        width="900"
   />
 </div>  
+
 ### Key Findings
 
 <table>
