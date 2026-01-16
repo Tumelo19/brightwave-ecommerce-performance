@@ -234,7 +234,7 @@ This report provides management with **clear, actionable insights** into BrightW
 </div> 
 
 <div align="center">
-  <img src="images/A1_Store_Product_Revenue_Analys_Chart5.png" 
+  <img src="images/A2_Store_Product_Revenue_Analys_Chart5.png" 
        alt="Product Category Revenue Chart"
        width="900"
   />
