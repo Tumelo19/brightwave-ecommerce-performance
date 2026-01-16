@@ -150,6 +150,99 @@ This report provides management with **clear, actionable insights** into BrightW
     Future revenue growth should prioritize <strong>increasing customer engagement and transaction volumes</strong> rather than pricing adjustments.
   </li>
 </ul>
+<div align="center">
+  <h2>Revenue Movement Analysis: Monthly Drivers</h2>
+</div>
+
+<div align="center">
+  <img src="images/A1_Revenue_Driver_Analysis_Chart3.png" 
+       alt="Monthly Revenue Drivers Chart"
+       width="900" />
+</div>
+
+<div align="center">
+  <img src="images/A1_Revenue_Driver_Analysis_Chart4.png" 
+       alt="Monthly Revenue Drivers Chart"
+       width="900" />
+</div>
+
+<h3>Key Findings</h3>
+
+<h4>Overall Performance</h4>
+<ul>
+  <li>
+    Revenue remained stable due to consistent customer activity across months, rather than pricing changes or underlying business growth.
+  </li>
+</ul>
+
+<h4>Primary Revenue Driver</h4>
+<ul>
+  <li>
+    Monthly revenue movements were driven mainly by <strong>transaction volumes</strong>, indicating a volume-driven revenue model.
+  </li>
+</ul>
+
+<h4>Material Revenue Movements</h4>
+<ul>
+  <li>
+    Significant revenue changes occurred in only a few months:
+    <strong>February (-8%)</strong>, <strong>March (+5%)</strong>,
+    <strong>August (+4%)</strong>, and <strong>October (+4%)</strong>.
+  </li>
+</ul>
+
+<h4>Revenue Declines</h4>
+<ul>
+  <li>
+    Revenue decreases were largely <strong>volume-driven</strong>, caused by fewer transactions and customers, while average revenue per transaction remained stable.
+  </li>
+</ul>
+
+<h4>Revenue Increases</h4>
+<ul>
+  <li>
+    Revenue growth was driven by higher <strong>transaction and customer volumes</strong>, with no meaningful change in average revenue per transaction.
+  </li>
+</ul>
+
+<h4>Pricing & Basket Size</h4>
+<ul>
+  <li>
+    Pricing and average basket size had a <strong>minor impact</strong> on revenue, as average revenue per transaction showed minimal variation.
+  </li>
+</ul>
+
+<h4>Customer Trends</h4>
+<ul>
+  <li>
+    Customer counts closely followed transaction trends, reinforcing a <strong>demand-driven revenue model</strong>.
+  </li>
+</ul>
+
+<h4>Operational Interpretation</h4>
+<ul>
+  <li>
+    Most month-to-month revenue changes reflect <strong>normal operational fluctuations</strong>. Movements below 4% were treated as normal variability.
+  </li>
+</ul>
+
+<h4>Strategic Implication</h4>
+<ul>
+  <li>
+    Future revenue growth should prioritize <strong>increasing customer engagement and transaction volumes</strong> rather than pricing adjustments.
+  </li>
+</ul>
+
+<div align="center">
+  <h2>Revenue Composition Analysis: Store & Product Drivers</h2>
+  <h3>Store-Level Revenue Drivers</h3>
+</div>
+
+<div align="center">
+  <img src="images/A1_Revenue_Driver_Analysis_Table.png" 
+       alt="Store-Level Revenue Table"
+       width="800" />
+</div>
 
 <div align="center">
   <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
