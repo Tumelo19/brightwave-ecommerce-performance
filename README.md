@@ -116,7 +116,6 @@ This report provides management with **clear, actionable insights** into BrightW
        width="900"
   />
 </div>  
-
 ### Key Findings
 
 <table>
@@ -161,6 +160,8 @@ This report provides management with **clear, actionable insights** into BrightW
     <td>Future revenue growth should focus on <strong>increasing transactions and customer engagement</strong> rather than changing prices.</td>
   </tr>
 </table>
+
+---
 
 <div align="center">
   <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
