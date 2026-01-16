@@ -168,7 +168,7 @@ This report provides management with **clear, actionable insights** into BrightW
 </div> 
 
 <div align="center">
-  <img src="images/A1_Revenue_Driver_Analysis_Table.png" 
+  <img src="images/A1_Revenue_Driver_Analysis_Table3.png" 
        alt="Store-Level Revenue Table"
        width="800"
   />
