@@ -100,75 +100,56 @@ This report provides management with **clear, actionable insights** into BrightW
   </tr>
 </table>
 
-<div align="center">
-  <h2>Revenue Movement Analysis: Monthly Drivers</h2>
-</div> 
-<div align="center">
-  <img src="images/A1_Revenue_Driver_Analysis_Chart3.png" 
-       alt="Monthly Revenue Drivers Chart"
-     width="900"
-    />
-</div> 
-   <div align="center">
-  <img src="images/A1_Revenue_Driver_Analysis_Chart4.png" 
-       alt="Monthly Revenue Drivers Chart"
-     width="900"
-    />
-</div>  
-### Key Findings
+<h3>Key Findings</h3>
 
-<table>
-  <caption>Table 2: Revenue Performance & Key Drivers</caption>
-  <tr>
-    <th>Aspect</th>
-    <th>Insight</th>
-  </tr>
+<ul>
+  <li>
+    <strong>Overall Performance:</strong>
+    Revenue remained stable due to consistent customer activity across months, rather than pricing changes or underlying business growth.
+  </li>
 
-  <tr>
-    <td>Overall Performance</td>
-    <td>Revenue stayed stable because customer activity remained similar each month, not due to price changes or business growth.</td>
-  </tr>
+  <li>
+    <strong>Primary Revenue Driver:</strong>
+    Monthly revenue movements were driven mainly by <strong>transaction volumes</strong>, indicating a volume-driven revenue model.
+  </li>
 
-  <tr>
-    <td>Primary Revenue Driver</td>
-    <td>Monthly revenue changes were mainly due to <strong>transaction volumes</strong>, showing a volume-driven revenue model.</td>
-  </tr>
+  <li>
+    <strong>Material Revenue Movements:</strong>
+    Significant revenue changes occurred in only a few months:
+    <strong>February (-8%)</strong>, <strong>March (+5%)</strong>,
+    <strong>August (+4%)</strong>, and <strong>October (+4%)</strong>.
+  </li>
 
-  <tr>
-    <td>Material Revenue Movements</td>
-    <td>Only a few months saw significant revenue changes: <strong>February (-8%)</strong>, <strong>March (+5%)</strong>, <strong>August (+4%)</strong>, and <strong>October (+4%)</strong>.</td>
-  </tr>
+  <li>
+    <strong>Revenue Declines:</strong>
+    Revenue drops were largely <strong>volume-driven</strong>, caused by fewer transactions and customers, while average revenue per transaction remained stable.
+  </li>
 
-  <tr>
-    <td>Revenue Declines</td>
-    <td>Drops were mainly <strong>volume-driven</strong>, due to fewer transactions and customers, while average revenue per transaction stayed stable.</td>
-  </tr>
+  <li>
+    <strong>Revenue Increases:</strong>
+    Revenue growth was driven by higher <strong>transaction and customer volumes</strong>, with no meaningful change in average revenue per transaction.
+  </li>
 
-  <tr>
-    <td>Revenue Increases</td>
-    <td>Revenue growth was due to higher <strong>transaction and customer volumes</strong>, with stable average revenue per transaction.</td>
-  </tr>
+  <li>
+    <strong>Pricing & Basket Size:</strong>
+    Pricing and average basket size had a <strong>minor impact</strong> on revenue, with limited variation in average revenue per transaction.
+  </li>
 
-  <tr>
-    <td>Pricing & Basket Size</td>
-    <td>Pricing and average basket size had a <strong>minor effect</strong> on revenue. Average revenue per transaction varied little.</td>
-  </tr>
+  <li>
+    <strong>Customer Trends:</strong>
+    Customer counts closely tracked transaction volumes, reinforcing a <strong>demand-driven revenue model</strong>.
+  </li>
 
-  <tr>
-    <td>Customer Trends</td>
-    <td>Customer numbers closely followed transaction trends, confirming a <strong>demand-driven revenue model</strong>.</td>
-  </tr>
+  <li>
+    <strong>Operational Interpretation:</strong>
+    Most month-to-month revenue changes reflect <strong>normal operational fluctuations</strong>. Movements below 4% were treated as normal variability.
+  </li>
 
-  <tr>
-    <td>Operational Interpretation</td>
-    <td>Most monthly revenue changes are <strong>normal operational fluctuations</strong>. Movements below 4% were treated as normal noise.</td>
-  </tr>
-
-  <tr>
-    <td>Strategic Implication</td>
-    <td>Future revenue growth should focus on <strong>increasing transactions and customer engagement</strong> rather than changing prices.</td>
-  </tr>
-</table>
+  <li>
+    <strong>Strategic Implication:</strong>
+    Future revenue growth should prioritize <strong>increasing customer engagement and transaction volumes</strong> rather than pricing adjustments.
+  </li>
+</ul>
 
 <div align="center">
   <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
