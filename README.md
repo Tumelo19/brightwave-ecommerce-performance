@@ -99,9 +99,10 @@ This report provides management with **clear, actionable insights** into BrightW
   </tr>
 </table>
 
+ <div align="center">
+  <h2> Analytical Deep Dives</h2>
+</div> 
 <div align="center">
-  
- ###  Analytical Deep Dives
   <h2>Revenue Movement Analysis: Monthly Drivers</h2>
 </div> 
 
