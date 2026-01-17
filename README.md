@@ -163,8 +163,6 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
        width="900"
   />
 
-
-### Key Findings
 </div>  
 <table>
   <tr>
@@ -227,8 +225,6 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
   />
 </div> 
 
-### Key Findings
-
 <table>
   <tr>
     <th>Aspect</th>
@@ -287,8 +283,6 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
   />
 </div>
 
-### Key Findings
-
 <table>
   <tr>
     <th>Aspect</th>
@@ -346,8 +340,6 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
        width="800"
   />
 </div>
-
-### Key Findings
 
 <table>
   <tr>
