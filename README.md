@@ -276,6 +276,7 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
   </tr>
 </table>
 
+---
 <div align="center">
   <h3>Product Category Revenue Drivers</h3> 
 </div> 
@@ -335,6 +336,7 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
   </tr>
 </table>
 
+---
 <div align="center">
   <h3>Customer Retention & Acquisition Analysis</h3>
 </div>
