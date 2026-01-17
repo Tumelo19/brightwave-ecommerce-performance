@@ -68,40 +68,6 @@ This report provides management with **clear, actionable insights** into BrightW
 <div align="center">
   <h2>Executive Summary</h2>
 </div>
-
-<p>
-BrightWave Retailers demonstrates a <strong>stable but flat revenue profile</strong>, with monthly revenue fluctuating within a narrow range and no sustained growth trend.
-</p>
-
-<p>
-Revenue performance is primarily <strong>volume-driven</strong>, meaning changes are caused by fluctuations in transaction and customer counts rather than pricing or basket size.
-</p>
-
-<p>
-The business benefits from a <strong>strong base of returning customers</strong>, which provides consistent revenue throughout the year. However, this creates a <strong>strategic growth risk</strong>, as new customer acquisition declines sharply after the start of the year.
-</p>
-
-<p>
-Mid-year volatility highlights opportunities to <strong>stabilize demand</strong> and convert short-term gains into <strong>sustainable long-term growth</strong>.
-</p>
-
-<h3>Key Strategic Takeaways</h3>
-<ul>
-  <li>Revenue stability is driven by diversification across stores and products</li>
-  <li>Transaction volume is the primary revenue driver</li>
-  <li>Returning customers provide consistency and resilience</li>
-  <li>New customer acquisition requires renewed focus</li>
-</ul>
-
-<h3>High-Level Recommendations</h3>
-<ul>
-  <li>Strengthen new customer acquisition initiatives</li>
-  <li>Leverage loyal customers through referral programs</li>
-  <li>Stabilize mid-year demand through targeted promotions</li>
-</ul>
-
----
-
 <div align="center">
   <h2>Executive Snapshot: Revenue Performance Overview</h2>
 </div> 
@@ -140,6 +106,40 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
     <td>The business is <strong>financially stable</strong>, but growth depends on increasing customer volumes.</td>
   </tr>
 </table>
+<p>
+BrightWave Retailers demonstrates a <strong>stable but flat revenue profile</strong>, with monthly revenue fluctuating within a narrow range and no sustained growth trend.
+</p>
+
+<p>
+Revenue performance is primarily <strong>volume-driven</strong>, meaning changes are caused by fluctuations in transaction and customer counts rather than pricing or basket size.
+</p>
+
+<p>
+The business benefits from a <strong>strong base of returning customers</strong>, which provides consistent revenue throughout the year. However, this creates a <strong>strategic growth risk</strong>, as new customer acquisition declines sharply after the start of the year.
+</p>
+
+<p>
+Mid-year volatility highlights opportunities to <strong>stabilize demand</strong> and convert short-term gains into <strong>sustainable long-term growth</strong>.
+</p>
+
+<h3>Key Strategic Takeaways</h3>
+<ul>
+  <li>Revenue stability is driven by diversification across stores and products</li>
+  <li>Transaction volume is the primary revenue driver</li>
+  <li>Returning customers provide consistency and resilience</li>
+  <li>New customer acquisition requires renewed focus</li>
+</ul>
+
+<h3>High-Level Recommendations</h3>
+<ul>
+  <li>Strengthen new customer acquisition initiatives</li>
+  <li>Leverage loyal customers through referral programs</li>
+  <li>Stabilize mid-year demand through targeted promotions</li>
+</ul>
+
+---
+
+
 
 ---
 
