@@ -162,8 +162,9 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
        alt="Monthly Revenue Drivers Chart"
        width="900"
   />
-
 </div>  
+
+#### Key Findings
 <table>
   <tr>
     <th>Aspect</th>
