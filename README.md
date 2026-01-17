@@ -98,12 +98,9 @@ This report provides management with **clear, actionable insights** into BrightW
     <td>The business is <strong>financially stable</strong>, with revenue changes driven by short-term factors. Opportunity exists to <strong>stabilize mid-year performance</strong> and convert temporary gains into <strong>long-term growth</strong>.</td>
   </tr>
 </table>
-
  <div align="center">
   <h2> Analytical Deep Dives</h2>
 </div> 
-
-'---
 <div align="center">
   <h2>Revenue Movement Analysis: Monthly Drivers</h2>
 </div> 
