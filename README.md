@@ -209,6 +209,7 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
   </tr>
 </table>
 
+---
 <div align="center">
   <h2>Revenue Composition Analysis: Store & Product Drivers</h2>  
   <h3>Store-Level Revenue Drivers</h3> 
