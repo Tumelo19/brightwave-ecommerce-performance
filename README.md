@@ -397,6 +397,12 @@ Mid-year volatility highlights opportunities to <strong>stabilize demand</strong
 </table>
 
 ---
+## 📂 Dataset
+
+Due to GitHub file size limitations, the full dataset is hosted externally.
+
+👉 **Access the full dataset here:**  
+[Google Sheets – Ecommerce Dataset](https://docs.google.com/spreadsheets/d/18_t_sRBYjsl3ZFqqjSFO23leK1M4zYsF/edit)
 
 <p align="center">
   <strong>Portfolio Project | Data Analytics & Business Intelligence</strong><br>
